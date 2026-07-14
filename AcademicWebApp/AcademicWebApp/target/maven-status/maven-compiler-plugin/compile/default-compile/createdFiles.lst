@@ -1,0 +1,8 @@
+com\mycompany\academicwebapp\UpdateStudentServlet.class
+com\mycompany\academicwebapp\ACDBConnection.class
+com\mycompany\academicwebapp\ViewStudentsServlet.class
+com\mycompany\academicwebapp\StudentDAO.class
+com\mycompany\academicwebapp\InsertStudentServlet.class
+com\mycompany\academicwebapp\DeleteStudentServlet.class
+com\mycompany\academicwebapp\JakartaRestConfiguration.class
+com\mycompany\academicwebapp\resources\JakartaEE10Resource.class
