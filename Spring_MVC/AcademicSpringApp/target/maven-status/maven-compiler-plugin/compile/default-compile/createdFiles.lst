@@ -1,0 +1,4 @@
+com\controller\StudentController.class
+com\mycompany\academicspringapp\resources\JakartaEE10Resource.class
+com\mycompany\academicspringapp\JakartaRestConfiguration.class
+com\controller\DBConnection.class
